@@ -36,6 +36,8 @@ Always:
 
 - use semantic HTML
 - provide alt text
+- use ARIA attributes appropriately
+- every component name start witn "BySam"
 - associate labels with inputs
 - ensure keyboard navigation
 - provide focus styles
